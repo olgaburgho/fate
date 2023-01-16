@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/fate/static/css/main.d9b950f9.css",
-    "main.js": "/fate/static/js/main.d980cb7e.js",
+    "main.js": "/fate/static/js/main.57c950c4.js",
     "static/js/787.80db8294.chunk.js": "/fate/static/js/787.80db8294.chunk.js",
     "index.html": "/fate/index.html",
     "main.d9b950f9.css.map": "/fate/static/css/main.d9b950f9.css.map",
-    "main.d980cb7e.js.map": "/fate/static/js/main.d980cb7e.js.map",
+    "main.57c950c4.js.map": "/fate/static/js/main.57c950c4.js.map",
     "787.80db8294.chunk.js.map": "/fate/static/js/787.80db8294.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.d9b950f9.css",
-    "static/js/main.d980cb7e.js"
+    "static/js/main.57c950c4.js"
   ]
 }
